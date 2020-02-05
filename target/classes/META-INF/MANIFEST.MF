@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.verizon.netassist.enpct.healthcheck.ENPCTHealthCheckTe
+ st
+

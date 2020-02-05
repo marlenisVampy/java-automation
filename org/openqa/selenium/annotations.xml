@@ -1,0 +1,5 @@
+<root>
+    <item name='org.openqa.selenium.WebDriver.Options'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
